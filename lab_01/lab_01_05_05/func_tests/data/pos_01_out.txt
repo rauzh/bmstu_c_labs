@@ -1,0 +1,3 @@
+Input natural n: 
+123
+

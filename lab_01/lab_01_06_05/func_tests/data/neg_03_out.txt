@@ -1,0 +1,2 @@
+Input xp, yp, xq, yq, xr, yr, xs, ys:
+Input error

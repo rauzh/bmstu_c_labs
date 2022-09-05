@@ -1,0 +1,7 @@
+Input num of elements: 
+Input elem: 
+Input elem: 
+Input elem: 
+Input elem: 
+Edited array with fibs: 1 2 3 0 
+

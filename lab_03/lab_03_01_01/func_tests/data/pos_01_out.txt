@@ -1,0 +1,7 @@
+Input num of lines: 
+Input num of columns: 
+Input elem: 
+Input elem: 
+Input elem: 
+Input elem: 
+0 0

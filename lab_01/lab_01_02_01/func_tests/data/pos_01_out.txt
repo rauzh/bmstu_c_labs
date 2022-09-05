@@ -1,0 +1,1 @@
+Input a, b, fi: Trapezoid area: 3.000000

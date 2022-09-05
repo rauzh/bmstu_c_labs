@@ -1,0 +1,2 @@
+Input apartment number: Gate: 1
+Floor: 9

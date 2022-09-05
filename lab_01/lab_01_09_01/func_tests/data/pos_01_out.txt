@@ -1,0 +1,2 @@
+Input x:
+Input x: Input x: Input x: Input x: g(x) = 0.479426

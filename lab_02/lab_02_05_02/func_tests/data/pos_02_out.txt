@@ -1,0 +1,10 @@
+Input num of elements: 
+Input elem: 
+Input elem: 
+Input elem: 
+Input elem: 
+Input elem: 
+Input elem: 
+Input elem: 
+Sum = 9
+

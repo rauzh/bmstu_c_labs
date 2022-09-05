@@ -1,0 +1,2 @@
+Input num of lines: Input num of columns: Input elem: Input elem: Input elem: Input elem: 53 65 
+76 99 

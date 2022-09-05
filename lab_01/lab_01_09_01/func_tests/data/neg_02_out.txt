@@ -1,0 +1,2 @@
+Input x:
+You should have input float x.

@@ -1,0 +1,6 @@
+Input x, eps: 
+s(x): 1.153320 
+f(x): 1.154701
+absolute error: 0.001380 
+relative error: 0.001195
+
