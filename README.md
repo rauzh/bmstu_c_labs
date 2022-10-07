@@ -9,4 +9,4 @@
 * lab_07 - work w dynamic arrays & files (txt)
 * lab_07 - work w dynamic multidimensional arrays
 
-### labs can contain authomized bash-based func test system & unit tests with check.h
+### labs can contain automitzed bash-based func test system & unit tests with check.h
