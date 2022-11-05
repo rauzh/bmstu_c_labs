@@ -1,0 +1,1 @@
+func_tests/data/neg_01_in.txt ALL
