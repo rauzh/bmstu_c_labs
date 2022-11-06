@@ -1,4 +1,4 @@
-# bmstu_projects
+# bmstu_c_labs
 
 * lab_01 - default prog algorithms
 * lab_02 - work w array
