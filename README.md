@@ -7,6 +7,8 @@
 * lab_05 - work w structures, arrays of structures & files (txt & bin)
 * lab_06 - work w arrays of structures & files (txt)
 * lab_07 - work w dynamic arrays & files (txt)
-* lab_07 - work w dynamic multidimensional arrays
+* lab_08 - work w dynamic multidimensional arrays
+* lab_09 - work w dynamic arrays of structures & dynamic strings
+* lab_10 - work w lists
 
 ### labs can contain automitzed bash-based func test system & unit tests with check.h
