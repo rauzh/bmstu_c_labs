@@ -1,0 +1,5 @@
+$ 2  kokas
+$ 0  poppa
+$ 0  koker
+@ 1  koker
+@ 1  zhopa

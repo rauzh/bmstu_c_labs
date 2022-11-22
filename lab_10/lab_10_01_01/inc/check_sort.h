@@ -1,0 +1,6 @@
+#ifndef __CHECK_SORTTTTTBANGGG_GANG_CHAPA__H__
+#define __CHECK_SORTTTTTBANGGG_GANG_CHAPA__H__
+
+Suite* check_sort(void);
+
+#endif // __CHECK_SORTTTTTBANGGG_GANG_CHAPA__H__
