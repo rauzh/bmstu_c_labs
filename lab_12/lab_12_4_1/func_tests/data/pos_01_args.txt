@@ -1,0 +1,2 @@
+/func_tests/data/pos_01_in.txt /out/pos_01_real_out.txt
+
