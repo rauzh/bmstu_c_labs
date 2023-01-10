@@ -10,5 +10,7 @@
 * lab_08 - work w dynamic multidimensional arrays
 * lab_09 - work w dynamic arrays of structures & dynamic strings
 * lab_10 - work w lists
+* lab_11 - realization of sprintf 🚬
+* lab_12 - giga cringe lab w writing own lib for python
 
 ### labs can contain automitzed bash-based func test system & unit tests with check.h
